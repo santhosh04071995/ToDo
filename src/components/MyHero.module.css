@@ -1,0 +1,16 @@
+.info {
+    color: red;
+    text-align: center;
+}
+.myspace {
+    height: 350px;
+    width: 100%;
+    overflow-y: scroll;
+    
+}
+.list-group-item{
+    background-color: azure;
+}
+li{
+    background-color: rgb(236, 236, 196);;
+}
